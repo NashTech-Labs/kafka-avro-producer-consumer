@@ -1,0 +1,10 @@
+com/vishaluplanch/avro/kafka/controller/SpringAvroRestController.class
+com/vishaluplanch/avro/schema/StockHistory$1.class
+com/vishaluplanch/avro/schema/StockHistory.class
+com/vishaluplanch/avro/kafka/Application.class
+com/vishaluplanch/avro/kafka/model/StockHistoryModel.class
+com/vishaluplanch/avro/schema/StockHistory$Builder.class
+com/vishaluplanch/avro/kafka/producer/SpringAvroProducer$1.class
+com/vishaluplanch/avro/kafka/consumer/SpringBootAvroConsumer.class
+com/vishaluplanch/avro/kafka/producer/SpringAvroProducer.class
+com/vishaluplanch/avro/kafka/config/Config.class
